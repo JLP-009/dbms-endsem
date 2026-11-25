@@ -1,0 +1,4 @@
+acquisition_channel,n,payers,mean_ltv_60d,median_ltv_60d,p90_ltv_60d,p99_ltv_60d
+organic,8156,1513.0,3.5981,0.0,6.98,99.98
+paid_video,3116,532.0,3.5741,0.0,4.99,99.99
+paid_social,7222,1317.0,3.4045,0.0,6.78,71.54
